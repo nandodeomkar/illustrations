@@ -1,0 +1,97 @@
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Amoeba and its parts</title>
+  <desc id="d">A blueprint of an amoeba cell with its membrane, nucleus, vacuoles and cytoplasm labelled, with a dimension line measuring the reach of a pseudopod that refuses to hold a fixed shape.</desc>
+
+  <g id="bg">
+    <rect width="1920" height="1080" fill="#143A66"/>
+    <g stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1">
+      <path d="M 96 0 V 1080 M 192 0 V 1080 M 288 0 V 1080 M 384 0 V 1080 M 480 0 V 1080 M 576 0 V 1080 M 672 0 V 1080 M 768 0 V 1080 M 864 0 V 1080 M 960 0 V 1080 M 1056 0 V 1080 M 1152 0 V 1080 M 1248 0 V 1080 M 1344 0 V 1080 M 1440 0 V 1080 M 1536 0 V 1080 M 1632 0 V 1080 M 1728 0 V 1080 M 1824 0 V 1080"/>
+      <path d="M 0 90 H 1920 M 0 180 H 1920 M 0 270 H 1920 M 0 360 H 1920 M 0 450 H 1920 M 0 540 H 1920 M 0 630 H 1920 M 0 720 H 1920 M 0 810 H 1920 M 0 900 H 1920 M 0 990 H 1920"/>
+    </g>
+  </g>
+
+  <g id="furniture">
+    <g id="dim-reach" transform="translate(1027 628)" data-anim="draw" data-order="9">
+      <path d="M -127 -120 V -8 M 128 -134 V -8" stroke="#F2F6FA" stroke-width="1.5" stroke-opacity="0.85"/>
+      <path d="M -127 0 H 128" stroke="#F2F6FA" stroke-width="2" pathLength="1"/>
+      <path d="M -127 0 l 16 -7 M -127 0 l 16 7 M 128 0 l -16 -7 M 128 0 l -16 7" stroke="#F2F6FA" stroke-width="2"/>
+      <text y="-12" text-anchor="middle" font-family="'Architects Daughter','Segoe Print',cursive" font-size="24" fill="#F2F6FA">REACH: 1/4 LUNCH</text>
+    </g>
+    <g id="stamp-rev" transform="translate(1560 210) rotate(-8)" data-anim="pop" data-order="10">
+      <circle r="78" fill="none" stroke="#E5484D" stroke-width="3"/>
+      <circle r="62" fill="none" stroke="#E5484D" stroke-width="1.5"/>
+      <text y="10" text-anchor="middle" font-family="'Architects Daughter','Segoe Print',cursive" font-size="30" fill="#E5484D">REV &#8734;</text>
+    </g>
+    <g id="title-block" transform="translate(1620 990)" data-anim="fade" data-order="11">
+      <rect x="-150" y="-50" width="300" height="100" fill="none" stroke="#F2F6FA" stroke-width="2"/>
+      <path d="M -150 -16 H 150 M -150 18 H 150" stroke="#F2F6FA" stroke-width="1.5"/>
+      <text y="-26" text-anchor="middle" font-family="'Architects Daughter','Segoe Print',cursive" font-size="22" fill="#F2F6FA">AMOEBA, PLAN</text>
+      <text y="6" text-anchor="middle" font-family="'Architects Daughter','Segoe Print',cursive" font-size="18" fill="#F2F6FA">DWG NO. PROTO-001</text>
+      <text y="40" text-anchor="middle" font-family="'Architects Daughter','Segoe Print',cursive" font-size="16" fill="#F2F6FA">SCALE: 1 CELL = 1 SHEET</text>
+    </g>
+  </g>
+
+  <g id="structure">
+    <g id="cell-membrane" data-anim="draw" data-order="1">
+      <path d="M 560 310 C 640 300 700 320 740 360 C 770 392 800 410 840 430 C 860 440 874 446 900 446 C 1000 432 1090 430 1158 452 C 1176 460 1174 484 1150 492 C 1080 510 1000 508 905 512 C 872 522 858 560 852 610 C 846 690 812 760 740 792 C 672 824 596 826 528 806 C 470 788 430 800 388 770 C 340 738 318 690 314 632 C 308 568 300 520 330 470 C 356 426 372 372 430 348 C 472 330 516 314 560 310 Z" fill="none" stroke="#F2F6FA" stroke-width="3" pathLength="1"/>
+    </g>
+    <g id="cytoplasm-contour" data-anim="draw" data-order="2">
+      <path d="M 562 350 C 632 342 690 360 726 396 C 752 424 778 438 812 452 C 832 462 848 472 860 482 C 846 552 838 636 768 728 C 700 776 600 778 530 760 C 466 744 414 752 378 698 C 344 654 348 600 352 552 C 356 500 362 446 414 422 C 460 400 506 396 540 388 C 552 372 556 360 562 350 Z" fill="none" stroke="#F2F6FA" stroke-width="1.5" stroke-dasharray="6 9" stroke-opacity="0.7" pathLength="1"/>
+    </g>
+    <g id="nucleus" transform="translate(580 470)" data-anim="pop" data-order="3">
+      <circle r="48" fill="none" stroke="#F2F6FA" stroke-width="2.5"/>
+      <circle r="15" fill="#F2F6FA"/>
+      <circle cx="-24" cy="14" r="3" fill="#F2F6FA"/>
+      <circle cx="22" cy="-18" r="3" fill="#F2F6FA"/>
+      <circle cx="18" cy="22" r="2.5" fill="#F2F6FA"/>
+    </g>
+    <g id="contractile-vacuole" transform="translate(430 615)" data-anim="pop" data-order="4">
+      <circle r="26" fill="none" stroke="#F2F6FA" stroke-width="2.5"/>
+      <path d="M 0 -38 V -30 M 27 -27 l 6 -6 M 38 0 H 30 M 27 27 l 6 6 M 0 38 V 30 M -27 27 l -6 6 M -38 0 H -30 M -27 -27 l -6 -6" stroke="#F2F6FA" stroke-width="1.5"/>
+    </g>
+    <g id="food-vacuole" transform="translate(745 560)" data-anim="pop" data-order="5">
+      <circle r="30" fill="none" stroke="#F2F6FA" stroke-width="2.5"/>
+      <path d="M -8 -6 q 10 -8 16 2 q 6 10 -4 14 q -12 4 -14 -6 q -2 -8 2 -10 Z" fill="#F2F6FA"/>
+    </g>
+  </g>
+
+  <g id="flows">
+    <g id="flow-stream" data-anim="draw" data-order="6">
+      <path d="M 902 482 C 978 470 1042 468 1110 470" fill="none" stroke="#FFB224" stroke-width="3" stroke-dasharray="14 10" pathLength="1"/>
+      <path d="M 1110 470 l -18 -8 M 1110 470 l -16 11" fill="none" stroke="#FFB224" stroke-width="3"/>
+    </g>
+  </g>
+
+  <g id="annotations">
+    <g id="note-membrane" transform="translate(70 290)" data-anim="fade" data-order="8">
+      <text font-family="'Architects Daughter','Segoe Print',cursive" font-size="24" fill="#F2F6FA">CELL MEMBRANE</text>
+      <path d="M 244 8 C 290 32 322 60 300 112 M 300 112 l 12 -14 M 300 112 l -16 -4" fill="none" stroke="#F2F6FA" stroke-width="2" pathLength="1"/>
+    </g>
+    <g id="note-pseudopod" transform="translate(1210 320)" data-anim="fade" data-order="8">
+      <text font-family="'Architects Daughter','Segoe Print',cursive" font-size="24" fill="#F2F6FA">PSEUDOPOD</text>
+      <text y="28" font-family="'Architects Daughter','Segoe Print',cursive" font-size="20" fill="#F2F6FA">(FALSE FOOT)</text>
+      <path d="M -10 -4 C -80 50 -130 90 -156 116 M -156 116 l 18 -3 M -156 116 l 4 -18" fill="none" stroke="#F2F6FA" stroke-width="2" pathLength="1"/>
+    </g>
+    <g id="note-nucleus" transform="translate(580 392)" data-anim="fade" data-order="8">
+      <text text-anchor="middle" font-family="'Architects Daughter','Segoe Print',cursive" font-size="22" fill="#F2F6FA">NUCLEUS</text>
+      <path d="M 0 8 V 24" fill="none" stroke="#F2F6FA" stroke-width="2" pathLength="1"/>
+    </g>
+    <g id="note-contractile" transform="translate(415 522)" data-anim="fade" data-order="8">
+      <text text-anchor="middle" font-family="'Architects Daughter','Segoe Print',cursive" font-size="19" fill="#F2F6FA">CONTRACTILE</text>
+      <text y="22" text-anchor="middle" font-family="'Architects Daughter','Segoe Print',cursive" font-size="19" fill="#F2F6FA">VACUOLE</text>
+      <path d="M 6 30 C 10 52 14 66 14 80 M 14 80 l 8 -12 M 14 80 l -12 -6" fill="none" stroke="#F2F6FA" stroke-width="2" pathLength="1"/>
+    </g>
+    <g id="note-food" transform="translate(745 490)" data-anim="fade" data-order="8">
+      <text text-anchor="middle" font-family="'Architects Daughter','Segoe Print',cursive" font-size="20" fill="#F2F6FA">FOOD VACUOLE</text>
+      <path d="M 0 8 V 36" fill="none" stroke="#F2F6FA" stroke-width="2" pathLength="1"/>
+    </g>
+    <g id="note-cytoplasm" transform="translate(545 700)" data-anim="fade" data-order="8">
+      <text text-anchor="middle" font-family="'Architects Daughter','Segoe Print',cursive" font-size="20" fill="#F2F6FA">CYTOPLASM</text>
+      <path d="M -36 -12 C -52 -44 -62 -70 -70 -92 M -70 -92 l -2 16 M -70 -92 l 14 8" fill="none" stroke="#F2F6FA" stroke-width="2" pathLength="1"/>
+    </g>
+    <g id="note-spec" transform="translate(1190 540)" data-anim="fade" data-order="8">
+      <text font-family="'Architects Daughter','Segoe Print',cursive" font-size="24" fill="#E5484D">SHAPE: NOT TO SPEC</text>
+      <path d="M -12 -14 C -28 -32 -34 -44 -32 -56 M -32 -56 l -10 12 M -32 -56 l 12 6" fill="none" stroke="#E5484D" stroke-width="2" pathLength="1"/>
+    </g>
+  </g>
+</svg>

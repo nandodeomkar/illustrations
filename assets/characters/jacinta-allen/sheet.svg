@@ -1,0 +1,144 @@
+<svg viewBox="0 0 1750 1300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <g id="def-head-front">
+      <path d="M -80 18 C -88 -22 -88 -72 -82 -114 C -76 -156 -56 -186 -28 -196 C -6 -202 14 -202 34 -196 C 62 -187 78 -154 81 -112 C 84 -70 82 -20 74 20 C 64 30 -66 30 -80 18 Z"
+            fill="#D9B66E" stroke="#1F1B16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <g fill="none" stroke="#1F1B16" stroke-width="2.5" stroke-linecap="round">
+        <path d="M -78 -4 C -84 4 -88 10 -94 14"/>
+        <path d="M 76 -4 C 82 4 86 10 92 14"/>
+      </g>
+      <path d="M -16 6 C -16 -14 -15 -30 -13 -42 L 13 -42 C 15 -30 16 -14 16 6 C 6 10 -6 10 -16 6 Z"
+            fill="#EAC3A6" stroke="#1F1B16" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M 0 -24 C -24 -24 -46 -38 -56 -66 C -63 -92 -64 -122 -58 -144 C -50 -168 -28 -178 0 -178 C 28 -178 50 -168 58 -144 C 64 -122 63 -92 56 -66 C 46 -38 24 -24 0 -24 Z"
+            fill="#EAC3A6" stroke="#1F1B16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M -56 -94 C -64 -92 -66 -80 -58 -74" fill="none" stroke="#1F1B16" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="-59" cy="-68" r="3.5" fill="#F5F3EE" stroke="#1F1B16" stroke-width="2"/>
+      <path d="M 56 -94 C 64 -92 66 -80 58 -74" fill="none" stroke="#1F1B16" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="59" cy="-68" r="3.5" fill="#F5F3EE" stroke="#1F1B16" stroke-width="2"/>
+      <g fill="#D9B66E" stroke="#1F1B16" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M -22 -174 C 0 -181 24 -178 40 -168 C 48 -162 53 -154 55 -146 C 42 -158 24 -164 6 -164 C -5 -164 -14 -161 -19 -157 C -22 -163 -23 -169 -22 -174 Z"/>
+        <path d="M -22 -174 C -36 -170 -47 -160 -52 -146 C -47 -152 -38 -158 -28 -160 C -24 -165 -23 -170 -22 -174 Z"/>
+      </g>
+      <g fill="none" stroke="#1F1B16" stroke-width="2.2" stroke-linecap="round">
+        <path d="M -18 -170 C -16 -164 -15 -158 -15 -152"/>
+        <path d="M 10 -172 C 18 -167 25 -161 30 -154"/>
+        <path d="M -34 -164 C -40 -157 -45 -149 -48 -141"/>
+      </g>
+      <g fill="none" stroke="#1F1B16" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M -44 -118 C -36 -124 -22 -125 -13 -120" stroke-width="3"/>
+        <path d="M 13 -120 C 22 -125 36 -124 44 -118" stroke-width="3"/>
+        <g stroke-width="5">
+          <path d="M -50 -94 C -51 -103 -49 -109 -42 -110 C -32 -111 -18 -111 -12 -109 C -8 -108 -7 -103 -7 -96 C -7 -88 -8 -82 -13 -81 C -22 -79 -36 -79 -44 -81 C -49 -82 -50 -88 -50 -94 Z"/>
+          <path d="M 50 -94 C 51 -103 49 -109 42 -110 C 32 -111 18 -111 12 -109 C 8 -108 7 -103 7 -96 C 7 -88 8 -82 13 -81 C 22 -79 36 -79 44 -81 C 49 -82 50 -88 50 -94 Z"/>
+          <path d="M -7 -100 C -3 -103 3 -103 7 -100" stroke-width="4"/>
+          <path d="M -50 -98 C -54 -99 -58 -100 -62 -102" stroke-width="4"/>
+          <path d="M 50 -98 C 54 -99 58 -100 62 -102" stroke-width="4"/>
+        </g>
+        <circle cx="-28" cy="-94" r="3.5" fill="#1F1B16" stroke="none"/>
+        <circle cx="28" cy="-94" r="3.5" fill="#1F1B16" stroke="none"/>
+        <path d="M 2 -84 C 4 -76 4 -70 0 -65" stroke-width="3.5"/>
+        <path d="M -18 -47 C -8 -39 9 -39 18 -48" stroke-width="4"/>
+      </g>
+    </g>
+    <g id="def-head-tql">
+      <path d="M -74 18 C -82 -22 -82 -72 -76 -114 C -70 -156 -50 -186 -22 -196 C 0 -202 18 -202 38 -196 C 66 -187 82 -152 85 -110 C 88 -68 86 -18 78 22 C 68 32 -62 32 -74 18 Z"
+            fill="#D9B66E" stroke="#1F1B16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <g fill="none" stroke="#1F1B16" stroke-width="2.5" stroke-linecap="round">
+        <path d="M -72 -4 C -78 4 -82 10 -88 14"/>
+        <path d="M 80 -4 C 86 4 90 10 96 14"/>
+      </g>
+      <path d="M -18 6 C -18 -14 -17 -30 -15 -42 L 11 -42 C 13 -30 14 -14 14 6 C 4 10 -8 10 -18 6 Z"
+            fill="#EAC3A6" stroke="#1F1B16" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M -12 -24 C -34 -26 -52 -42 -58 -70 C -64 -96 -64 -122 -57 -144 C -48 -168 -26 -178 2 -178 C 30 -178 52 -166 58 -140 C 63 -116 60 -88 52 -62 C 43 -36 16 -22 -12 -24 Z"
+            fill="#EAC3A6" stroke="#1F1B16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M 50 -92 C 58 -90 60 -78 52 -72" fill="none" stroke="#1F1B16" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="54" cy="-66" r="3.5" fill="#F5F3EE" stroke="#1F1B16" stroke-width="2"/>
+      <g fill="#D9B66E" stroke="#1F1B16" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M -28 -172 C -6 -179 18 -176 34 -166 C 42 -160 47 -152 49 -144 C 36 -156 18 -162 0 -162 C -11 -162 -20 -159 -25 -155 C -28 -161 -29 -167 -28 -172 Z"/>
+        <path d="M -28 -172 C -40 -168 -50 -158 -54 -144 C -49 -150 -41 -156 -32 -158 C -29 -163 -28 -168 -28 -172 Z"/>
+      </g>
+      <g fill="none" stroke="#1F1B16" stroke-width="2.2" stroke-linecap="round">
+        <path d="M -24 -168 C -22 -162 -21 -156 -21 -150"/>
+        <path d="M 4 -170 C 12 -165 19 -159 24 -152"/>
+        <path d="M -40 -162 C -46 -155 -50 -147 -52 -139"/>
+      </g>
+      <g fill="none" stroke="#1F1B16" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M -48 -116 C -41 -122 -30 -123 -22 -118" stroke-width="3"/>
+        <path d="M 2 -118 C 11 -123 26 -122 34 -116" stroke-width="3"/>
+        <g stroke-width="5">
+          <path d="M -52 -92 C -53 -101 -51 -107 -45 -108 C -38 -109 -28 -109 -23 -107 C -20 -106 -19 -101 -19 -94 C -19 -87 -20 -81 -24 -80 C -31 -78 -41 -78 -47 -80 C -51 -81 -52 -87 -52 -92 Z"/>
+          <path d="M 44 -93 C 45 -102 43 -108 36 -109 C 26 -110 12 -110 6 -108 C 2 -107 1 -102 1 -95 C 1 -87 2 -81 7 -80 C 16 -78 30 -78 38 -80 C 43 -81 44 -87 44 -93 Z"/>
+          <path d="M -19 -98 C -15 -101 -9 -101 -5 -99" stroke-width="4"/>
+          <path d="M 44 -97 C 48 -98 52 -99 55 -101" stroke-width="4"/>
+        </g>
+        <circle cx="-36" cy="-93" r="3" fill="#1F1B16" stroke="none"/>
+        <circle cx="22" cy="-94" r="3.5" fill="#1F1B16" stroke="none"/>
+        <path d="M -14 -86 C -18 -78 -21 -70 -24 -64 C -20 -61 -16 -62 -13 -63" stroke-width="3.5"/>
+        <path d="M -28 -47 C -18 -39 -2 -39 8 -46" stroke-width="4"/>
+      </g>
+    </g>
+  </defs>
+
+  <rect x="0" y="0" width="1750" height="1300" fill="#FFFFFF"/>
+  <text x="60" y="70" font-family="sans-serif" font-size="34" fill="#1F1B16">Jacinta Allen — character sheet</text>
+
+  <use xlink:href="#def-head-front" transform="translate(250 430)"/>
+  <text x="250" y="480" font-family="sans-serif" font-size="22" fill="#1F1B16" text-anchor="middle">front</text>
+
+  <use xlink:href="#def-head-tql" transform="translate(580 430)"/>
+  <text x="580" y="480" font-family="sans-serif" font-size="22" fill="#1F1B16" text-anchor="middle">3/4 left</text>
+
+  <use xlink:href="#def-head-tql" transform="translate(910 430) scale(-1 1)"/>
+  <text x="910" y="480" font-family="sans-serif" font-size="22" fill="#1F1B16" text-anchor="middle">3/4 right</text>
+
+  <!-- ============ FULL BODY (idle, blazer) ============ -->
+  <g id="full-body" transform="translate(1080 30) scale(0.85)">
+    <path id="sleeve-left" d="M 342 324 C 312 332 296 366 288 410 C 281 455 274 502 269 546 C 266 572 264 590 262 604 L 286 612 C 288 592 291 574 294 554 C 300 508 307 462 313 424 C 319 388 328 358 348 344 Z"
+          fill="#44495A" stroke="#1F1B16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="hand-left" d="M 262 604 C 250 610 247 632 261 641 C 277 649 289 633 285 617 C 283 609 272 599 262 604 Z"
+          fill="#EAC3A6" stroke="#1F1B16" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="sleeve-right" d="M 458 324 C 488 332 504 366 512 410 C 519 455 526 502 531 546 C 534 572 536 590 538 604 L 514 612 C 512 592 509 574 506 554 C 500 508 493 462 487 424 C 481 388 472 358 452 344 Z"
+          fill="#44495A" stroke="#1F1B16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="hand-right" d="M 538 604 C 550 610 553 632 539 641 C 523 649 511 633 515 617 C 517 609 528 599 538 604 Z"
+          fill="#EAC3A6" stroke="#1F1B16" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="trousers" d="M 338 620 C 332 700 332 800 336 900 C 339 990 342 1060 345 1116 L 393 1116 C 396 1030 397 950 398 870 L 400 852 L 402 870 C 403 950 404 1030 407 1116 L 455 1116 C 458 1060 461 990 464 900 C 468 800 468 700 462 620 Z"
+          fill="#44495A" stroke="#1F1B16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="shoe-left" d="M 340 1116 C 332 1120 328 1130 334 1136 C 352 1139 376 1139 392 1136 C 396 1130 395 1121 392 1116 Z"
+          fill="#44495A" stroke="#1F1B16" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="shoe-right" d="M 408 1116 C 405 1121 404 1130 408 1136 C 424 1139 448 1139 466 1136 C 472 1130 468 1120 460 1116 Z"
+          fill="#44495A" stroke="#1F1B16" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="top" d="M 322 332 C 314 372 310 430 316 492 C 320 540 328 584 338 620 L 462 620 C 472 584 480 540 484 492 C 490 430 486 372 478 332 C 452 317 426 314 400 314 C 374 314 348 317 322 332 Z"
+          fill="#F5F3EE" stroke="#1F1B16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="v-neck" d="M 374 320 C 382 346 393 372 400 388 C 407 372 418 346 426 320 C 417 316 409 315 400 315 C 391 315 383 316 374 320 Z"
+          fill="#EAC3A6" stroke="#1F1B16" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="chain-left" d="M 382 328 C 389 354 396 378 400 392" fill="none" stroke="#1F1B16" stroke-width="2" stroke-linecap="round"/>
+    <path id="chain-right" d="M 418 328 C 411 354 404 378 400 392" fill="none" stroke="#1F1B16" stroke-width="2" stroke-linecap="round"/>
+    <path id="pendant" d="M 400 396 C 393 404 391 414 400 420 C 409 414 407 404 400 396 Z"
+          fill="#F5F3EE" stroke="#1F1B16" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="blazer-left" d="M 322 332 C 314 372 310 430 316 492 C 320 540 328 584 338 620 L 368 620 C 366 560 366 480 370 420 C 372 384 376 354 386 334 C 362 327 340 328 322 332 Z"
+          fill="#44495A" stroke="#1F1B16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path id="blazer-right" d="M 478 332 C 486 372 490 430 484 492 C 480 540 472 584 462 620 L 432 620 C 434 560 434 480 430 420 C 428 384 424 354 414 334 C 438 327 460 328 478 332 Z"
+          fill="#44495A" stroke="#1F1B16" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <use xlink:href="#def-head-front" transform="translate(400 300)"/>
+  </g>
+  <text x="1420" y="1090" font-family="sans-serif" font-size="22" fill="#1F1B16" text-anchor="middle">full body — idle</text>
+
+  <!-- ============ PALETTE ============ -->
+  <g id="palette" font-family="sans-serif" font-size="18" fill="#1F1B16">
+    <rect x="120" y="600" width="80" height="80" fill="#1F1B16" stroke="#1F1B16" stroke-width="2"/>
+    <text x="160" y="710" text-anchor="middle">ink</text>
+    <text x="160" y="734" text-anchor="middle">#1F1B16</text>
+    <rect x="240" y="600" width="80" height="80" fill="#EAC3A6" stroke="#1F1B16" stroke-width="2"/>
+    <text x="280" y="710" text-anchor="middle">skin</text>
+    <text x="280" y="734" text-anchor="middle">#EAC3A6</text>
+    <rect x="360" y="600" width="80" height="80" fill="#D9B66E" stroke="#1F1B16" stroke-width="2"/>
+    <text x="400" y="710" text-anchor="middle">hair</text>
+    <text x="400" y="734" text-anchor="middle">#D9B66E</text>
+    <rect x="480" y="600" width="80" height="80" fill="#F5F3EE" stroke="#1F1B16" stroke-width="2"/>
+    <text x="520" y="710" text-anchor="middle">cloth-1</text>
+    <text x="520" y="734" text-anchor="middle">#F5F3EE</text>
+    <rect x="600" y="600" width="80" height="80" fill="#44495A" stroke="#1F1B16" stroke-width="2"/>
+    <text x="640" y="710" text-anchor="middle">cloth-2</text>
+    <text x="640" y="734" text-anchor="middle">#44495A</text>
+  </g>
+</svg>
